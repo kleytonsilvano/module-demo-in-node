@@ -1,5 +1,5 @@
-# Atividade Prática 1 - Unidade 2
-UNIDADE 2 - Módulos em Node.js
+# Pós Graduação PUC Minas - UNIDADE 2 - Módulos em Node.js
+Atividade Prática 1 - Unidade 2
 
 O objetivo deste exercício é garantir que o aluno seja capaz de criar e utilizar módulos em Node.js. Utilizando os conceitos aprendidos ao longo das unidades 1 e 2 desta disciplina, você precisará construir um módulo em Node.js capaz de realizar funções matemáticas simples (adição, subtração, multiplicação e divisão) a partir de 2 números.
 
